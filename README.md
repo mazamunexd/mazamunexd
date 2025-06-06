@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Masamune
+- 👋 Hi, I’m called "Masamune".
 - 👀 I’m interested in playing games (especially those from Hoyoverse and Yostar) and attending cosplay conventions.
 - 🌱 I’m currently learning C++, Java, HTML, CSS, and JavaScript.
 - 💞️ I’m looking to collaborate on interesting software projects or perhaps even contribute to game development or convention-related initiatives.
